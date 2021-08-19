@@ -1,0 +1,11 @@
+.vs/
+bin/
+obj/
+
+material_view/imgui.ini
+
+material_view/material_view.vcxproj
+material_view/material_view.vcxproj.filters
+material_view/material_view.vcxproj.user
+
+material_view.sln
